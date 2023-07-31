@@ -1,0 +1,22 @@
+{
+  "name": "com.noveltech.mapgeneration",
+  "version": "0.1.0",
+  "displayName": "MapGeneration",
+  "description": "This package contains algorithms to generate maps.",
+  "unity": "2021.3",
+  "unityRelease": "10f1",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "",
+  "dependencies": {
+
+ },
+ "keywords": [
+    "procgen"
+  ],
+  "author": {
+    "name": "Noveltech",
+    "email": "Wally869@protonmail.com",
+    "url": "https://www.noveltech.dev/"
+  }
+}
